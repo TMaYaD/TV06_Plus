@@ -1,0 +1,3 @@
+[submodule "libs/AluminumExtrusionProfile"]
+	path = libs/AluminumExtrusionProfile
+	url = git@github.com:ServerNinja/OpenSCAD_AluminumExtrusionProfile_Library.git
